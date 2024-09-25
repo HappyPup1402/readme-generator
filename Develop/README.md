@@ -1,8 +1,8 @@
-# reademe-generator
-  
+# readme-generator
+
 ## Description
 
-The purpose of this project is to make it easy to generate professional readmes for any given project
+This project allows users to fill out the questions provided which than is turned into a professional READEME.md file
 
 ## Table of contents
 
@@ -15,11 +15,11 @@ The purpose of this project is to make it easy to generate professional readmes 
 
 ## Installation
 
-1. go to my github and clone my repo
+First you must go to my github and clone the repo. Once the repo is cloned you than need to navigate to the Develop folder and run node index.js in your terminal
 
 ## Usage
 
-Every repo created also you to genreate a readme for the project. my program allows yu to fill out the required fields and than it will generate a readme for that project
+This project can be used for later READEME.md files for other projects
 
 ## License
 
