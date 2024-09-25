@@ -10,27 +10,27 @@ const questions = [
     {
         type: 'input',
         name: 'title',
-        message: 'What is the title of your project',
+        message: 'What is the title of your project.',
     },
     {
         type: 'input',
         name: 'description',
-        message: 'Please describe your project',
+        message: 'Provide a short description explaining the what, why, and how of your project.',
     },
     {
         type: 'input',
         name: 'installation',
-        message: 'What are the steps required to install your project?',
+        message: 'What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.',
     },
     {
         type: 'input',
         name: 'usage',
-        message: 'Provide instructions and examples for use',
+        message: 'Provide instructions and examples for use.',
     },
     {
         type: 'input',
         name: 'contributing',
-        message: 'Provide contribution guidelines.',
+        message: 'If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard.',
     },
     {
         type: 'input',
